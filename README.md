@@ -1,6 +1,6 @@
 <h1 align="center">
  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2340A597&size=30&width=800&lines=👋Hi,+i'm+Ardian+Permana.;My+Age+18+Years+Old;I'm+a+web+developer,;I'm+Starting+For+Programing+For+1+Years;">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2340A597&size=30&width=800&lines=👋Hi,+i'm+Ardian+Permana.;My+Age+18+Years+Old;I'm+a+web+developer,;I'm+a+Bot+developer;I'm+started+learning+programming+already+I+started+learning+programming+already+2+years;">
   </a>
 </h1>
 
