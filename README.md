@@ -12,12 +12,6 @@
 <a href="https://wa.me/6287845032372" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
 [![GitHub ArrDev10](https://img.shields.io/github/followers/ArrDev10?label=follow&style=social)](https://github.com/ArrDev10)
 
-## My Repository⚒️
-
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=ArrDev10&repo=WaBot-With-Baileys-API&theme=dracula)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=ArrDev10&repo=Portlio&theme=dracula)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=ArrDev10&repo=Utama&theme=dracula)
-
 <p>
   <a href="https://github.com/ArrDev10"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArrDev10&theme=dracula&layout=compact" /></a>
 </p>
