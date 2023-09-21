@@ -13,5 +13,6 @@
 [![GitHub ArrDev10](https://img.shields.io/github/followers/ArrDev10?label=follow&style=social)](https://github.com/ArrDev10)
 
 <p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArrDev10&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+ <a (https://github-readme-stats.vercel.app/api/top-langs/?username=ArrDev10&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+  /><a>
 </p>
