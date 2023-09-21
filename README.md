@@ -13,5 +13,5 @@
 [![GitHub ArrDev10](https://img.shields.io/github/followers/ArrDev10?label=follow&style=social)](https://github.com/ArrDev10)
 
 <p>
-  <a href="https://github.com/ArrDev10"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArrDev10&theme=dracula&layout=compact" /></a>
+  <a href="https://github.com/ArrDev10"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArrDev10&theme=dracula /></a>
 </p>
