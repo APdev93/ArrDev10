@@ -8,7 +8,7 @@
 
 ## Visit my website https://ardian.store
 
-[<img src="https://img.shields.io/badge/My.Portofolio-green">](portofolio.ardian.store)
+[<img src="https://img.shields.io/badge/My.Portofolio-green">](https://portofolio.ardian.store)
 [<img src="https://img.shields.io/badge/Email-support@ardian.store-purple">](mailto:support@ardian.store)
 <a href="https://www.instagram.com/ardianpermana93" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://wa.me/6287845032372" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
