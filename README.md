@@ -31,9 +31,9 @@
 ## STATS
 
 <p align="center">
-  <a href="https://github.com/ArrDev10"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArrDev10&theme=tokyonight&layout=donut" /></a>
+  <a href="https://github.com/APdev93"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArrDev10&theme=tokyonight&layout=donut" /></a>
 </p>
 
  <p align="center">
-  <a href="https://github.com/ArrDev10"><img src="https://github-readme-stats.vercel.app/api?username=ArrDev10&theme=tokyonight&show_icons=true" /></a>
+  <a href="https://github.com/APdev93"><img src="https://github-readme-stats.vercel.app/api?username=ArrDev10&theme=tokyonight&show_icons=true" /></a>
 </p>
