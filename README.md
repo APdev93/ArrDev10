@@ -12,7 +12,7 @@
 [<img src="https://img.shields.io/badge/Email-support@ardian.store-purple">](mailto:support@ardian.store)
 <a href="https://www.instagram.com/ardianpermana93" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://wa.me/6287845032372" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
-[![GitHub arrdev10](https://img.shields.io/github/followers/ArrDev10?label=follow&style=social)](https://github.com/ArrDev10)
+[![GitHub arrdev10](https://img.shields.io/github/followers/APdev93?label=follow&style=social)](https://github.com/APdev93)
 
 ## Programing Skill:
 
@@ -31,9 +31,9 @@
 ## STATS
 
 <p align="center">
-  <a href="https://github.com/APdev93"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArrDev10&theme=tokyonight&layout=donut" /></a>
+  <a href="https://github.com/APdev93"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=APdev93&theme=tokyonight&layout=donut" /></a>
 </p>
 
  <p align="center">
-  <a href="https://github.com/APdev93"><img src="https://github-readme-stats.vercel.app/api?username=ArrDev10&theme=tokyonight&show_icons=true" /></a>
+  <a href="https://github.com/APdev93"><img src="https://github-readme-stats.vercel.app/api?username=APdev93&theme=tokyonight&show_icons=true" /></a>
 </p>
