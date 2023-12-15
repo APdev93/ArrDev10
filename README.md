@@ -1,5 +1,5 @@
 <h1 align="center">Hi, My name is Ardian Permana (AP)</h1>
-<h2 align="center">Im Fullstack developer,</h2>
+<h2 align="center">Im Fullstack web developer,</h2>
 
 <h3 style="margin-top:50px" align="left">Connect with me:</h3>
 <p align="center">
