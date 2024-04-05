@@ -32,9 +32,3 @@
 <div style="display:flex;flex-direction:row;justify-content:center">
 <a align="center" href="http://www.github.com/APdev93"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=APdev93&show_icons=true&locale=en&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AP's github stats" /></a>
 </div>
-<h3 align="left">Statistics:</h3>
-<div style="display:flex;flex-direction:row;justify-content:center">
-   
-<img style="width:280px" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=APdev93&theme=dark" height="180em" />
-<img style="width:280px" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=APdev93&theme=dark" height="180em" />
-</div>
