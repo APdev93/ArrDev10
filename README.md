@@ -1,7 +1,6 @@
-<h1 align="center">Hi, My name is Ardian Permana (AP)</h1>
-<h2 align="center">Im Fullstack web developer ye'</h2>
+<h1 align="center">Hi, My name is APdev</h1>
+<h2 align="center">Im a Web Developer'</h2>
 
-<h3 style="margin-top:50px" align="left">Connect with me:</h3>
 <p align="center">
 <div style="display: flex; align-items: center; gap:5px; justify-content:center">
    
