@@ -14,8 +14,8 @@
 </p>
 
 <h3 style="margin-top:50px" align="left">Skill:</h3>
-<p align="left">
-<div style="display: flex; align-items: center; gap:5px; justify-content:center">
+<p align="center">
+<div>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -29,6 +29,6 @@
    <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="mongo" /></a>
 </div>
 </p>
-<div style="display:flex;flex-direction:row;justify-content:center">
-<a align="center" href="http://www.github.com/APdev93"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=APdev93&show_icons=true&locale=en&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AP's github stats" /></a>
+<div style="text-align: center">
+<a href="http://www.github.com/APdev93"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=APdev93&show_icons=true&locale=en&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AP's github stats" /></a>
 </div>
