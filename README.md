@@ -7,7 +7,7 @@
 - _📖 Iam first time learning `Termux android emulator`. 4 years ago, and 2 years later I focused on `JavaScript`, and after that I was interested in creating a `website` program until now._
 - 🌐 visit: <a href="https://info.ardian.store">`info.ardian.store`</a>
 - ✉️ Email for Bussiness: <a href="">`support@ardian.store`</a>
-- 📚 Learning `TypeScript`
+- 📚 currently Learning `TypeScript`
 
 ## skils
 
