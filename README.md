@@ -2,7 +2,7 @@
 <h3 align="center">im a web developer</h3>
 
 - 🏷️ I am a `web` developer
-- 🇮🇩 Im From `Indonesia`
+- 🇮🇩 I am From `Indonesia`
 - 🗓️ I started my career as a programmer 4 years ago.
 - _📖 Iam first time learning `Termux android emulator`. 4 years ago, and 2 years later I focused on `JavaScript`, and after that I was interested in creating a `website` program until now._
 - 🌐 visit: <a href="https://info.ardian.store">`info.ardian.store`</a>
