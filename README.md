@@ -31,7 +31,7 @@
      <h3>frameworks</h3>
      <p align = "center">
           <a href="https://skillicons.dev">
-               <img style="margin: 10px"src="https://skillicons.dev/icons?i=tailwindcss,express,bootstrap,nodejs&perline=8"alt="My Skills"/> 
+               <img style="margin: 10px"src="https://skillicons.dev/icons?i=tailwindcss,express,bootstrap&perline=8"alt="My Skills"/> 
           </a>
      </p>
 </div>
