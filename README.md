@@ -46,7 +46,7 @@
 ## Statistic
 
 <div align="center">
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=APdev93&layout=compact&theme=dark"/>
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=APdev93&theme=dark" height="180em" />
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=APdev93&theme=dark" height="180em" />
+     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=APdev93&layout=compact&theme=dark"/>
 </div>
