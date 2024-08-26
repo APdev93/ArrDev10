@@ -52,5 +52,5 @@
 
 <div align="center">
 <a href="https://github.com/APdev93">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=APdev93&show_icons=true&locale=en&theme=dark" alt="Maher-Zubair GitHub Stats" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=APdev93&theme=dark" height="180em" />
 </div>
