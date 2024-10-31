@@ -38,7 +38,16 @@
      <h3>tools</h3>
      <p align = "center">
           <a href="https://skillicons.dev">
-               <img style="margin: 10px"src="https://skillicons.dev/icons?i=npm,nodejs,git,vscode,yarn&perline=8"alt="My Skills"/> 
+               <img style="margin: 10px"src="https://skillicons.dev/icons?i=npm,postman,git,vscode,yarn&perline=8"alt="My Skills"/> 
+          </a>
+     </p>
+</div>
+
+<div align="center">
+     <h3>other</h3>
+     <p align = "center">
+          <a href="https://skillicons.dev">
+               <img style="margin: 10px"src="https://skillicons.dev/icons?i=nodejs,ejs&perline=8"alt="My Skills"/> 
           </a>
      </p>
 </div>
