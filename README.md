@@ -14,7 +14,7 @@
      <h3>langguages</h3>
      <p align = "center">
           <a href="https://skillicons.dev">
-               <img style="margin: 10px"src="https://skillicons.dev/icons?i=js,ts,sass,html5,css4&perline=8"alt="My Skills"/> 
+               <img style="margin: 10px"src="https://skillicons.dev/icons?i=js,ts,sass,html,css&perline=8"alt="My Skills"/> 
           </a>
      </p>
 </div>
